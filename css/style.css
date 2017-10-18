@@ -139,7 +139,6 @@ a:hover, a:focus, a:active {
 .probootstrap-navbar .dropdown-header {
   color: rgba(255, 255, 255, 0.2);
   padding-left: 10px;
-  text-transform: uppercase;
 }
 
 .probootstrap-navbar .dropdown > a {
@@ -260,7 +259,6 @@ a:hover, a:focus, a:active {
 }
 
 .probootstrap-navbar .navbar-brand {
-  text-transform: uppercase;
   font-family: "Open Sans", Arial, sans-serif;
   color: #ffffff;
   font-size: 26px;
@@ -287,8 +285,7 @@ a:hover, a:focus, a:active {
 .probootstrap-navbar .navbar-nav > li > a {
   color: white;
   font-size: 15px;
-  position: relative;
-  text-transform: uppercase;
+  position: relative;\
 }
 
 @media screen and (max-width: 768px) {
@@ -679,7 +676,6 @@ a:hover, a:focus, a:active {
 
 .probootstrap-pricing h2 {
   font-size: 14px;
-  text-transform: uppercase;
   letter-spacing: .2em;
   color: #000000;
   margin-bottom: 0;
@@ -908,7 +904,6 @@ a:hover, a:focus, a:active {
 }
 
 .probootstrap-form .form-group label {
-  text-transform: uppercase;
   font-size: 13px;
 }
 
